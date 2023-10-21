@@ -34,7 +34,7 @@
     "initialCols": 150,
     "initialPosition": ",",
     "initialRows": 38,
-    "launchMode": "focus",
+    // "launchMode": "focus",
     "newTabMenu": [
         {
             "type": "remainingProfiles"
@@ -42,12 +42,12 @@
     ],
     "profiles": {
         "defaults": {
-            "colorScheme": "Tokyo Night",
+            "colorScheme": "AtelierSulphurpool",
             "font": {
                 "face": "JetBrainsMono Nerd Font",
                 "size": 10
             },
-            "opacity": 70,
+            "opacity": 80,
             "padding": "8",
             "scrollbarState": "hidden",
             "useAcrylic": true
@@ -69,6 +69,75 @@
         ]
     },
     "schemes": [
+        {
+            "name": "Batman",
+            "black": "#1b1d1e",
+            "red": "#e6dc44",
+            "green": "#c8be46",
+            "yellow": "#f4fd22",
+            "blue": "#737174",
+            "purple": "#747271",
+            "cyan": "#62605f",
+            "white": "#c6c5bf",
+            "brightBlack": "#505354",
+            "brightRed": "#fff78e",
+            "brightGreen": "#fff27d",
+            "brightYellow": "#feed6c",
+            "brightBlue": "#919495",
+            "brightPurple": "#9a9a9d",
+            "brightCyan": "#a3a3a6",
+            "brightWhite": "#dadbd6",
+            "background": "#1b1d1e",
+            "foreground": "#6f6f6f",
+            "selectionBackground": "#4d504c",
+            "cursorColor": "#fcef0c"
+        },
+        {
+            "name": "AtelierSulphurpool",
+            "black": "#fcef0c",
+            "red": "#c94922",
+            "green": "#ac9739",
+            "yellow": "#c08b30",
+            "blue": "#3d8fd1",
+            "purple": "#6679cc",
+            "cyan": "#22a2c9",
+            "white": "#979db4",
+            "brightBlack": "#6b7394",
+            "brightRed": "#c76b29",
+            "brightGreen": "#feed6c",
+            "brightYellow": "#5e6687",
+            "brightBlue": "#898ea4",
+            "brightPurple": "#dfe2f1",
+            "brightCyan": "#9c637a",
+            "brightWhite": "#f5f7ff",
+            "background": "#202746",
+            "foreground": "#979db4",
+            "selectionBackground": "#5e6687",
+            "cursorColor": "#979db4"
+        },
+        {
+            "name": "Apple Classic",
+            "black": "#000000",
+            "red": "#c91b00",
+            "green": "#00c200",
+            "yellow": "#c7c400",
+            "blue": "#0225c7",
+            "purple": "#ca30c7",
+            "cyan": "#00c5c7",
+            "white": "#c7c7c7",
+            "brightBlack": "#686868",
+            "brightRed": "#ff6e67",
+            "brightGreen": "#5ffa68",
+            "brightYellow": "#fffc67",
+            "brightBlue": "#6871ff",
+            "brightPurple": "#ff77ff",
+            "brightCyan": "#60fdff",
+            "brightWhite": "#ffffff",
+            "background": "#2c2b2b",
+            "foreground": "#d5a200",
+            "selectionBackground": "#6b5b02",
+            "cursorColor": "#c7c7c7"
+        },
         {
             "name": "Catppuccin Mocha",
             "cursorColor": "#F5E0DC",
